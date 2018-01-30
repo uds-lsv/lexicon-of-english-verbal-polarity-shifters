@@ -1,0 +1,2220 @@
+abandon,02232813,dobj
+abandon,00614907,dobj
+abandon,02232523,dobj
+abandon,00615748,dobj
+abandon,02080923,dobj
+abate,00245945,subj
+abate,00246175,dobj
+abbreviate,00244635,subj
+abdicate,02384340,dobj
+aberrate,02668154,pobj_from
+aberrate,02667847,pobj_from
+abjure,00800379,dobj
+ablate,00276265,dobj
+abnegate,02217856,dobj
+abnegate,01118693,dobj
+abnegate,00760087,dobj
+abolish,02432181,dobj
+abort,00354493,dobj
+abort,00059834,subj
+about-face,00690810,subj
+abrade,01256577,dobj
+abrase,01256577,dobj
+abridge,00237729,dobj
+abrogate,02484173,dobj
+abscise,01257786,subj
+abscise,01257786,dobj
+absent,00422488,pobj_from
+absolve,00905665,pobj_of
+absolve,00904187,pobj_from
+abstain,01198570,pobj_from
+aby,02526175,dobj
+abye,02526175,dobj
+acquit,00905999,pobj_of
+addle,00211073,subj
+affranchise,02482558,pobj_from
+allay,01819152,dobj
+allay,01206641,dobj
+alleviate,00063866,dobj
+ameliorate,00206293,dobj
+ameliorate,00205454,subj
+amend,00206293,dobj
+amend,00200276,dobj
+amputate,01257256,dobj
+annihilate,00471632,dobj
+annul,02483482,dobj
+annul,00801460,dobj
+antagonise,02570756,dobj
+antagonize,02570756,dobj
+appease,01196647,dobj
+arrest,01863572,dobj
+arrest,01133899,dobj
+assoil,00905999,pobj_of
+assuage,00063866,dobj
+assuage,01206641,dobj
+atone,02526175,dobj
+atone,02526175,pobj_for
+atrophy,00093733,subj
+attack,00019785,dobj
+attenuate,00221127,dobj
+avert,02458770,dobj
+avoid,00813037,dobj
+avoid,02458770,dobj
+avoid,01192356,dobj
+avoid,02483482,dobj
+avoid,02468933,comp
+avoid,02468933,pobj_from
+avulse,02035962,dobj
+axe,00354971,dobj
+ax,00354971,dobj
+back,00561705,subj
+back away,00801045,pobj_from
+back down,02001712,subj
+back down,02386122,pobj_from
+back off,02001712,subj
+back off,02386122,pobj_from
+back out,00801045,pobj_from
+back out,00801045,pobj_of
+backpedal,00690702,pobj_on
+back up,02001712,subj
+baffle,02563998,dobj
+bag,01482504,dobj
+balk,02589630,pobj_at
+ball up,02533317,dobj
+bang up,01569486,dobj
+banish,02007373,dobj
+banish,02509666,dobj
+banish,02509929,dobj
+banish,02509452,dobj
+ban,02499315,comp
+ban,02499315,dobj
+ban,00798054,comp
+ban,00798054,dobj
+ban,02509929,comp
+ban,02509929,dobj
+ban,02509666,comp
+ban,02509666,dobj
+bar,00798250,dobj
+bar,02509452,dobj
+bar,01480632,dobj
+barricade,01129641,dobj
+barricade,01129501,dobj
+barricade,01480632,dobj
+barricado,01129501,pobj_against
+bate,02516741,dobj
+battle,01094777,dobj
+battle,01094777,pobj_against
+baulk,02589630,pobj_at
+beat back,01508789,dobj
+belie,02669219,dobj
+belittle,00442836,dobj
+benumb,02119756,dobj
+betray,01803246,subj
+better,00206293,dobj
+better,00205454,subj
+bilk,02563998,dobj
+bilk,02578849,dobj
+bilk,02578849,pobj_out of
+bilk,02078305,subj
+bilk,02078305,dobj
+biodegrade,00191552,subj
+blackball,02478854,dobj
+blackball,02509666,dobj
+blacklist,02478566,dobj
+black out,02768257,dobj
+black out,00202270,dobj
+blank out,00202453,dobj
+blank out,00610654,dobj
+blast,00336968,dobj
+blast,00242810,subj
+blear,00313791,dobj
+blind,00313060,dobj
+blockade,01480632,dobj
+blockade,02563025,dobj
+blockade,01129387,dobj
+blockade,01129272,dobj
+block off,01129387,dobj
+block off,01480024,dobj
+block off,01480632,dobj
+block out,01480168,dobj
+block up,01480632,dobj
+block,02563025,dobj
+block,02565578,dobj
+block,01058906,dobj
+block,01479113,dobj
+block,01149526,dobj
+block,00270309,dobj
+block,00610654,dobj
+block,01480632,dobj
+blow off,01293548,dobj
+blow out,00436247,subj
+blow out,02767855,dobj
+blow over,00422644,subj
+blow up,00307505,dobj
+blow,02533317,dobj
+blow,02273196,dobj
+blow,00310937,subj
+blow,00310937,dobj
+blow,00436247,subj
+blow,00310937,subj
+blow,00310937,dobj
+blunt,00228445,dobj
+blunt,02119756,dobj
+blunt,01249008,dobj
+blunt,00228339,dobj
+blunt,00192383,dobj
+blur,00313791,dobj
+bobble,02533317,dobj
+bodge,02533317,dobj
+bog down,01839045,dobj
+bog down,00364569,dobj
+bog down,00364395,subj
+bog down,01838838,subj
+bog,00364569,dobj
+bog,00364395,subj
+bollix,02533317,dobj
+bollix up,02533317,dobj
+bollocks,02533317,dobj
+bollocks up,02533317,dobj
+boot out,02406951,dobj
+boot out,01471205,dobj
+botch up,02533317,dobj
+botch,02533317,dobj
+bottleneck,02563728,dobj
+bottle up,02428558,dobj
+bounce back,00268897,subj
+bow out,02386122,pobj_of
+boycott,02470917,dobj
+breach,02572443,dobj
+break,00364717,dobj
+break,00363001,dobj
+break,02674312,dobj
+break,00390886,dobj
+break,02752324,dobj
+break,00335806,dobj
+break,00780790,dobj
+break,00781106,dobj
+break,00259551,dobj
+break,01372423,dobj
+break,02572443,dobj
+break,02565221,dobj
+break,02484058,dobj
+break,00030456,dobj
+break,01613367,dobj
+break,00334996,subj
+break,00435327,subj
+break,02752492,subj
+break,01993067,subj
+break,00154854,subj
+break,00107408,subj
+break,02077161,subj
+break,02034609,subj
+break,02436167,subj
+break,01372011,subj
+break,00337070,subj
+break,02541382,pobj_with
+break,02687449,pobj_of
+break,02687334,comp
+break,02687334,dobj
+break apart,01661660,dobj
+break apart,01564843,dobj
+break apart,00369315,dobj
+break down,01106247,dobj
+break down,01372791,dobj
+break down,00209582,dobj
+break down,00435327,subj
+break down,02045722,subj
+break down,00030640,subj
+break off,00363458,dobj
+break off,00363001,dobj
+break away,02541382,pobj_from
+break away,02077161,subj
+break away,02541123,subj
+break out,02077161,subj
+break up,02033508,subj
+break up,00356457,subj
+break up,02436167,subj
+break up,01564843,dobj
+break up,00780320,dobj
+break up,01661660,dobj
+break up,00356609,dobj
+break up,00209582,dobj
+break up,01613367,dobj
+break up,02034269,dobj
+break up,01563766,dobj
+break up,00338881,subj
+break up,00338881,dobj
+break with,02436681,pobj_with
+bring around,00081478,dobj
+bring down,02407551,dobj
+bring down,00430013,dobj
+bruise,01797206,dobj
+bruise,00260446,dobj
+brush aside,00802592,dobj
+brush off,00802592,dobj
+buckle,01281789,subj
+buffer,01579748,dobj
+bumble,02533317,dobj
+bump off,02488014,dobj
+bump,01530296,dobj
+bundle off,01958868,dobj
+bungle,02533317,dobj
+bungle,00013165,dobj
+burke,00463807,dobj
+burke,02488373,dobj
+burn,00379335,dobj
+burn,00196708,dobj
+burn,01207620,dobj
+burn down,00378022,subj
+burn down,00379335,dobj
+burn out,00436247,subj
+burn off,01207620,dobj
+burn off,00196596,dobj
+burn up,01207620,dobj
+burn up,00378022,subj
+burst,01993576,dobj
+burst,00334404,subj
+bury,00611721,dobj
+bust up,01568966,dobj
+bust,01372423,dobj
+bust,01372011,subj
+bust,00334404,subj
+bypass,00812833,dobj
+call off,02483178,dobj
+calm down,01767681,subj
+calm down,00559138,subj
+calm down,01768652,dobj
+calm,01768652,dobj
+calm,00022309,dobj
+calm,01767681,subj
+cancel out,00472127,dobj
+cancel,02483178,dobj
+cancel,02723706,dobj
+cancel,02482757,dobj
+cancel,01551969,dobj
+cancel,00802122,dobj
+can,02407967,dobj
+carry off,00471632,dobj
+cashier,02432443,dobj
+cast aside,02227100,dobj
+cast away,02227100,dobj
+cast off,01516062,dobj
+cast out,02509666,dobj
+cast out,02227100,dobj
+cast,01516062,dobj
+castrate,00543033,dobj
+cave in,01993067,subj
+cease,02686624,comp
+cease,02686624,dobj
+cease,02615799,subj
+cede,02240011,dobj
+censor,02499315,dobj
+chase away,02006752,dobj
+cheapen,00208136,dobj
+checkmate,01116893,dobj
+check,00441241,dobj
+check,00355288,dobj
+check,01133899,dobj
+check,01142182,dobj
+check,00337070,subj
+cheese,02686501,dobj
+chicken out,02386122,pobj_of
+chill out,01767681,subj
+choke back,00392119,dobj
+choke down,00392119,dobj
+choke off,00392119,dobj
+choke,02428846,dobj
+choke,00391723,dobj
+choke,02535335,dobj
+choke,00359085,subj
+choke,00391905,subj
+chop down,01260071,dobj
+chop off,01301854,dobj
+chuck,02232144,dobj
+chuck out,02227100,dobj
+chuck out,01471205,dobj
+circumvent,00811316,dobj
+clarify,00941888,dobj
+clean out,02408550,dobj
+clear away,00181704,dobj
+clear up,00941888,dobj
+clear up,00485823,dobj
+clear off,00181704,dobj
+clear,00181809,pobj_of
+clear,00451818,pobj_of
+clear,00451520,pobj_of
+clear,02355436,pobj_of
+clear,00905999,pobj_of
+clear,00195686,dobj
+clear,00763499,dobj
+clear,00451646,dobj
+clear,02161274,subj
+clip,00293639,dobj
+clog,01303864,dobj
+clog,00441962,dobj
+close down,02431242,subj
+close down,02431242,dobj
+close off,01480024,dobj
+close off,02035671,pobj_from
+close out,02635471,dobj
+close out,02357534,dobj
+close out,00352373,dobj
+close up,02431242,subj
+close up,02431242,dobj
+close up,01479113,dobj
+close,02431242,subj
+close,02431242,dobj
+close,02430760,dobj
+close,01481053,dobj
+close,02145254,dobj
+close,02616663,subj
+closure,00528114,dobj
+cloture,00528114,dobj
+cloud,00589133,dobj
+collapse,01993067,subj
+collapse,00030640,subj
+collapse,02045722,subj
+collapse,00224886,subj
+collapse,01993576,dobj
+comb out,02228412,dobj
+combat,01094777,dobj
+come apart,00334996,subj
+come away,01302344,subj
+come down,01974840,subj
+come off,01302344,subj
+come out,02102203,subj
+comfort,00082061,dobj
+compensate,02678329,dobj
+compensate,02525657,dobj
+compensate,02255433,dobj
+compensate,02255433,pobj_for
+complete,00485097,dobj
+conclude,02616663,subj
+conclude,00716979,dobj
+conflict,02573062,pobj_with
+confute,00669342,dobj
+conk out,00435327,subj
+conk out,00099271,subj
+conk,01866326,subj
+conk,00359085,subj
+conquer,00463047,dobj
+conquer,01116721,dobj
+constipate,00441962,dobj
+consume,01568702,dobj
+consume,01159815,dobj
+contain,01133899,dobj
+contract,01282077,dobj
+contract,00241457,subj
+contradict,00778104,dobj
+contradict,02669219,dobj
+contradict,00825097,dobj
+contradict,00668804,dobj
+contraindicate,00930437,dobj
+contravene,02573062,dobj
+contravene,02573062,pobj_against
+contravene,00825097,dobj
+contravene,00825097,pobj_against
+controvert,00669665,dobj
+controvert,00778104,dobj
+convalesce,00092442,pobj_from
+cool down,00370779,subj
+cool off,00370779,subj
+cool off,01781624,subj
+cool off,01767681,subj
+cool,00370779,subj
+cop out,00681634,pobj_of
+corrade,01256577,dobj
+correct,00200023,dobj
+correct,02525657,dobj
+correct,02678329,dobj
+correct,00079223,pobj_for
+corrode,00275082,dobj
+corrode,00274762,subj
+corrupt,02585532,dobj
+cost,02635042,dobj
+counteract,02549571,dobj
+counteract,02570756,dobj
+counteract,02549304,dobj
+counterbalance,02678329,dobj
+counterbalance,02549571,dobj
+countermand,00801460,dobj
+countermine,02549304,dobj
+countervail,02723890,dobj
+countervail,02549571,dobj
+crack,00337875,subj
+crack,00337070,subj
+cramp,00237139,dobj
+cramp,00237139,pobj_in
+crash,01564601,subj
+crash,01564843,subj
+crash,00584141,subj
+crash,00435872,subj
+crash,01564990,dobj
+crash,02023134,dobj
+crawfish out,00801045,pobj_from
+crawfish,00801045,pobj_from
+cremate,00379825,dobj
+cripple,00226258,dobj
+croak,00359085,subj
+cross,02563998,dobj
+cross off,00802412,dobj
+cross out,00802412,dobj
+crumble,02045722,subj
+crumble,00398311,subj
+crumble,00209244,subj
+crumple,02045722,subj
+crumple,01281789,subj
+crush out,00479613,dobj
+crush,00339895,dobj
+crush,01106247,dobj
+crush,02429499,dobj
+crush,00560467,subj
+cumber,01303637,dobj
+curb,00237442,dobj
+cure,00081478,dobj
+curtail,00237442,dobj
+curtail,00293639,dobj
+cushion,01579748,dobj
+cut away,01556769,dobj
+cut back,00237442,dobj
+cut back,00430013,dobj
+cut down,00430013,dobj
+cut down,01325339,dobj
+cut down,01260866,dobj
+cut down,01242426,dobj
+cut off,00780320,dobj
+cut off,00293269,dobj
+cut off,01301854,dobj
+cut off,01443265,dobj
+cut off,01257256,dobj
+cut out,00473602,dobj
+cut out,01443265,dobj
+cut out,01552501,dobj
+cut out,00352964,subj
+cut up,00293434,dobj
+cut,00430013,dobj
+cut,02427383,dobj
+cut,00293269,dobj
+cut,01513208,dobj
+cut,00430921,pobj_into
+cut,00474253,dobj
+cut,01061436,dobj
+cut,02619895,dobj
+damage,00259743,dobj
+damage,00589255,subj
+dampen,00391513,dobj
+dampen,00391231,dobj
+dampen,00391130,dobj
+dampen,00390886,dobj
+dampen,02195757,dobj
+dampen,00392255,dobj
+damp,00574162,dobj
+damp,00391231,dobj
+damp,00390886,dobj
+damp,02195757,dobj
+dam up,01479854,dobj
+dam,01479854,dobj
+darken,01540617,dobj
+dash,02564529,dobj
+dash,00336733,dobj
+dawdle,02001894,subj
+deactivate,00192060,dobj
+deactivate,00191849,dobj
+deaden,00391231,dobj
+deaden,00192383,dobj
+deaden,00193672,subj
+debar,02507686,dobj
+debar,02458770,dobj
+debar,00798250,dobj
+debase,02585532,dobj
+debauch,02585532,dobj
+debilitate,00390309,dobj
+debunk,00854877,dobj
+decay,00399980,subj
+decay,00209244,subj
+decay,00553892,subj
+decease,00359085,subj
+decelerate,00440913,subj
+decelerate,00439450,dobj
+decimate,00471632,dobj
+decline,02242120,dobj
+decline,00799092,comp
+decline,00432779,subj
+decline,02043721,subj
+decline,00204228,subj
+decommission,02317722,dobj
+decompose,00209582,dobj
+decompose,00399980,subj
+decompose,00210263,subj
+decrease,00151509,subj
+decrease,00442400,dobj
+deep-six,02227776,dobj
+de-escalate,00291745,subj
+de-escalate,00291502,dobj
+defang,00197466,dobj
+defeat,01110559,dobj
+defeat,02479111,dobj
+defect,02590182,dobj
+defend,01093838,pobj_against
+defer,02648898,dobj
+deflagrate,00586225,subj
+deflagrate,02778268,dobj
+deflate,00857916,dobj
+deflate,00563380,dobj
+deflect,02458770,dobj
+deflect,01149526,dobj
+deflect,02037650,pobj_from
+deflower,00478872,dobj
+defuse,01140122,dobj
+defy,02713660,dobj
+defy,02712676,dobj
+degenerate,00092045,subj
+degrade,00208136,dobj
+degrade,01310556,dobj
+delay,00460731,dobj
+delay,02648041,dobj
+delay,00461855,dobj
+delay,00441241,dobj
+delete,01551969,dobj
+delete,01001860,dobj
+deliver,02240011,dobj
+dematerialise,00345146,subj
+dematerialize,00345146,subj
+demolish,01660001,dobj
+demolish,01660252,dobj
+demoralise,02585532,dobj
+demoralize,02585532,dobj
+demur,00809603,pobj_at
+deny,00818217,comp
+deny,00818664,dobj
+deny,02217856,dobj
+deny,02218972,dobj
+deny,00818828,dobj
+deny,02217607,dobj
+depart,01852660,dobj
+depart,01852660,pobj_from
+depart,02012411,dobj
+depart,02012411,pobj_from
+depart,02388582,dobj
+depart,02388582,pobj_from
+deplete,01159815,dobj
+deport,02504961,dobj
+depose,02410394,dobj
+deprave,02585532,dobj
+depress,01977946,dobj
+depress,01577754,dobj
+depress,00225864,dobj
+deprive,02318230,pobj_of
+deprive,02319255,pobj_of
+deprive,00172745,pobj_of
+deracinate,01569697,dobj
+derange,00277400,dobj
+descend,01974840,subj
+desecrate,02573980,dobj
+desert,00615748,dobj
+desert,02590182,dobj
+desert,01846309,dobj
+desist,01198570,pobj_from
+desolate,00615748,dobj
+desolate,00389306,dobj
+destabilise,00272976,subj
+destabilise,00272510,dobj
+destabilize,00272976,subj
+destabilize,00272510,dobj
+destroy,01622948,dobj
+destroy,01566925,dobj
+destroy,01329210,dobj
+destruct,01623725,dobj
+destruct,01622948,dobj
+detach,01301254,dobj
+detach,01302344,subj
+detain,00461855,dobj
+detain,00460731,dobj
+deteriorate,00208905,subj
+deteriorate,00092045,subj
+deter,00910052,dobj
+deter,00772186,pobj_from
+deterge,01395692,pobj_of
+detract,00533195,pobj_from
+devastate,00389306,dobj
+devastate,00261197,dobj
+deviate,02068815,pobj_from
+devitalise,00166760,dobj
+devitalize,00166760,dobj
+devolve,00092045,subj
+devour,01568141,dobj
+die away,00245945,subj
+die back,00242912,subj
+die down,00242912,subj
+die down,00224594,subj
+die out,00428636,subj
+die off,00428636,subj
+die,00359085,subj
+die,00435327,subj
+die,00355499,subj
+dilapidate,01666329,dobj
+dilapidate,00209244,subj
+dilly-dally,02648322,dobj
+dillydally,02648322,dobj
+diminish,00151509,subj
+diminish,00442836,dobj
+dim,00314386,subj
+dim,02166741,dobj
+dim,00314265,dobj
+dim,00313060,dobj
+dip,00433014,subj
+dip,02041990,subj
+dip,02166741,dobj
+dip,02044954,dobj
+disable,00513267,dobj
+disable,00091720,dobj
+disallow,00797525,comp
+disallow,00797525,dobj
+disappear,00427911,subj
+disappear,02160976,subj
+disappear,00428350,subj
+disappear,00224354,subj
+disarm,01834387,dobj
+disarm,01090416,dobj
+disarticulate,01297235,dobj
+disassemble,01661660,dobj
+disband,02034812,dobj
+disband,02033789,subj
+disburden,01490553,pobj_from
+disburden,01490553,pobj_of
+discard,02227100,dobj
+discerp,01575341,dobj
+discharge,02427126,pobj_from
+discharge,00905999,pobj_of
+discharge,00104622,dobj
+disconnect,01424071,dobj
+disconnect,01358741,dobj
+discontinue,02686624,comp
+discontinue,02686624,dobj
+discontinue,00363001,comp
+discontinue,00363001,dobj
+discontinue,02689663,subj
+discount,00802592,dobj
+discountenance,00734860,dobj
+discourage,00910052,dobj
+disdain,00798638,dobj
+disembarrass,02355171,pobj_of
+disembroil,02683880,dobj
+disembroil,02683880,pobj_from
+disenable,00513267,dobj
+disencumber,01588680,pobj_of
+disengage,01514012,dobj
+disengage,01514012,pobj_from
+disentangle,01588680,pobj_from
+disentangle,02683880,pobj_from
+disintegrate,00398482,subj
+disintegrate,00399980,subj
+disintegrate,00400274,dobj
+disinvest,02390514,pobj_of
+disinvolve,02683880,pobj_from
+disjoint,01297235,dobj
+disjoint,01296999,dobj
+disjoint,01296785,subj
+disjoin,01296999,dobj
+disjoin,01296785,subj
+dislodge,01531310,dobj
+dislodge,01530296,dobj
+dismantle,01665698,dobj
+dismantle,01661660,dobj
+dismantle,00194878,pobj_of
+dismember,01575341,dobj
+dismiss,00802592,dobj
+dismiss,00803288,dobj
+dismiss,02471362,dobj
+dismiss,02407967,dobj
+dismiss,00902491,dobj
+dismiss,00339369,dobj
+disown,00759589,dobj
+dispatch,02488014,dobj
+dispatch,01327810,dobj
+dispel,02006752,dobj
+dispel,02034269,dobj
+dispense with,02539728,dobj
+dispense with,02308215,dobj
+disperse,02034269,dobj
+displace,02411141,dobj
+displace,02407967,dobj
+dispose,02227100,pobj_of
+disprove,00669342,dobj
+disqualify,00302119,dobj
+disqualify,00302119,pobj_for
+disqualify,00302119,pobj_from
+disqualify,00974640,dobj
+disqualify,00974640,pobj_for
+disqualify,00974640,pobj_from
+disregard,00802592,dobj
+disregard,00618547,dobj
+disregard,01061436,dobj
+disrupt,00780320,dobj
+disrupt,00521437,dobj
+dissipate,02034269,dobj
+dissolve,00448726,subj
+dissolve,00356457,subj
+dissolve,02033789,subj
+dissolve,00448905,dobj
+dissolve,00356609,dobj
+dissolve,00339369,dobj
+dissuade,00772186,pobj_from
+disturb,00260641,dobj
+disturb,00521099,dobj
+disunify,00369315,dobj
+ditch,02233050,dobj
+ditch,02232144,dobj
+ditch,02229727,dobj
+dive,01971380,subj
+divert,02068815,pobj_from
+divest,02390514,pobj_of
+divest,02319255,pobj_of
+dodge,02100772,dobj
+dodge,00811316,dobj
+do in,01329983,dobj
+douse,02766453,dobj
+downsize,02408915,dobj
+downsize,00587808,dobj
+down,01105747,dobj
+down,01242426,dobj
+drain,01160320,pobj_of
+drain,00390309,dobj
+draw back,01998474,pobj_from
+draw out,01353852,dobj
+drift,01929647,pobj_from
+drive away,02006752,dobj
+drive back,01133623,dobj
+drive off,02006752,dobj
+drive out,02006752,dobj
+drive,01508789,dobj
+drop away,00204753,subj
+drop down,01989937,subj
+drop off,00152707,subj
+drop off,01116231,subj
+drop off,00204753,subj
+drop,01989937,subj
+drop,00092045,subj
+drop,02409062,dobj
+drop,00363763,dobj
+drop,02471362,dobj
+drop,00617306,dobj
+drop,00616690,dobj
+drop,01260866,dobj
+drop,01516062,dobj
+drum out,02406951,dobj
+duck,00811316,dobj
+dull,02195757,dobj
+dull,00392374,dobj
+dull,01248885,dobj
+dull,01249008,dobj
+dull,00392673,subj
+dull,02119756,subj
+dump,02229986,dobj
+dump,01981094,subj
+dump,02229727,dobj
+dwindle away,00268567,subj
+dwindle down,00268567,subj
+dwindle,00268567,subj
+ease off,00156293,subj
+ease off,00156084,dobj
+ease,00082061,dobj
+ease,01819152,dobj
+ease up,00156293,subj
+ease up,00156084,dobj
+eat away,00275523,dobj
+eat away,00275523,pobj_at
+eat away,00275432,dobj
+eat away,00275432,pobj_at
+eat up,01159815,dobj
+eat,01159815,dobj
+eat,00275082,dobj
+ebb,00571984,subj
+efface,00312120,dobj
+efface,01551500,dobj
+egest,00072742,dobj
+eject,00104622,dobj
+eject,01471205,dobj
+elide,00617112,dobj
+eliminate,00472642,dobj
+eliminate,02635337,dobj
+eliminate,00471632,dobj
+eliminate,00687320,dobj
+eliminate,00072742,dobj
+eliminate,01105250,dobj
+eliminate,00576638,dobj
+elucidate,00941888,dobj
+elude,02078305,subj
+elude,02078305,dobj
+elude,00811316,dobj
+emasculate,00543033,dobj
+embarrass,02563025,dobj
+empty,02080923,dobj
+empty,01490942,dobj
+encroach,02575705,pobj_on
+encroach,02575705,pobj_upon
+encroach,01997384,pobj_on
+encroach,01997384,pobj_upon
+encumber,01303637,dobj
+endanger,02702962,dobj
+endanger,01038191,dobj
+end,02615799,subj
+end,00353480,dobj
+end,01623891,dobj
+enfeeble,00390309,dobj
+enfranchise,02482558,pobj_from
+entrench,02575705,pobj_on
+entrench,02575705,pobj_upon
+eradicate,00471632,dobj
+eradicate,01666012,dobj
+erase,00480322,dobj
+erase,01551500,dobj
+erase,01001860,dobj
+erode,00276052,subj
+erode,00275523,dobj
+err,01929647,pobj_from
+escape,00812219,dobj
+escape,02078906,pobj_from
+escape from,02077473,pobj_from
+eschew,00813811,dobj
+etiolate,00226116,dobj
+evade,00811316,dobj
+evade,02374810,dobj
+evade,00812701,dobj
+evade,02078305,subj
+evade,02078305,dobj
+evanesce,00422644,subj
+evaporate,00224354,subj
+evaporate,00576797,subj
+evaporate,00577047,dobj
+even off,02678329,dobj
+even out,02678329,dobj
+even up,02678329,dobj
+evict,01470687,dobj
+exchange,02262575,dobj
+except,00809603,pobj_at
+except,00617464,dobj
+excise,01552202,dobj
+excise,00473802,dobj
+exclude,00617464,dobj
+exclude,02454205,dobj
+exclude,02639795,dobj
+exclude,00798250,dobj
+exclude,01471205,dobj
+excrete,00072742,dobj
+exculpate,00905999,pobj_of
+excuse,00895399,pobj_from
+exempt,02570061,pobj_from
+exempt,00895399,pobj_from
+exfiltrate,02078726,pobj_from
+exfiltrate,02078726,pobj_out of
+exfiltrate,02078605,pobj_from
+exfiltrate,02078605,pobj_out of
+exhaust,01159815,dobj
+exhaust,02285714,dobj
+exhaust,00451952,dobj
+exhaust,00104622,dobj
+exile,02504961,dobj
+exit,02019450,dobj
+exit,01081082,dobj
+exit,00359085,subj
+exonerate,00905999,pobj_of
+exorcise,01530665,dobj
+exorcize,01530665,dobj
+expatriate,02504961,dobj
+expel,02507387,dobj
+expel,02406951,dobj
+expel,01111362,dobj
+expel,00104622,dobj
+expend,01160888,dobj
+expiate,02526175,dobj
+expire,02690607,subj
+expire,00359085,subj
+explode,00307505,dobj
+explode,01568576,dobj
+explode,00667253,dobj
+expose,01038191,dobj
+expose,00854877,dobj
+expunge,01552202,dobj
+extenuate,00907990,dobj
+exterminate,01330264,dobj
+exterminate,01666012,dobj
+extinguish,00479613,dobj
+extinguish,00479148,dobj
+extinguish,02767855,dobj
+extinguish,00472642,dobj
+extinguish,00471632,dobj
+extirpate,01666012,dobj
+extirpate,01569697,dobj
+extirpate,00176337,dobj
+extract,01353852,dobj
+extricate,01588680,pobj_from
+fade away,00448726,subj
+fade out,00448726,subj
+fade,00225077,subj
+fade,00422644,subj
+fade,00422870,subj
+fail,02534950,comp
+fail,02605525,comp
+fail,01803246,subj
+fail,00435327,subj
+fail,00561324,subj
+fail,02534046,subj
+fail,00172922,subj
+fail,02527985,dobj
+fail,02527985,pobj_in
+fail,02529450,dobj
+fall,01974840,subj
+fall apart,01372011,subj
+fall apart,00398311,subj
+fall apart,00334996,subj
+fall away,00148292,subj
+fall away,00204753,subj
+fall back,02001894,subj
+fall back,01116231,subj
+fall back,01908113,subj
+fall behind,01116231,subj
+fall behind,02001894,subj
+fall in,01993067,subj
+fall off,00433792,subj
+fall off,01302626,subj
+fall off,00148292,subj
+fall out,02102203,subj
+fall through,02535669,subj
+fall,02534651,subj
+fall,02626293,subj
+fall,00151509,subj
+fall,02390295,subj
+fall,00342969,subj
+falter,02746079,subj
+fell,01260866,dobj
+fend off,02458770,dobj
+ferment,00459426,subj
+fettle,02370585,dobj
+fiddle,02469127,dobj
+fight back,01094695,pobj_against
+fight back,01093838,dobj
+fight down,01093838,dobj
+fight off,01133623,dobj
+fight,01093838,dobj
+figure out,00636568,dobj
+filter out,01461293,dobj
+filter,01461293,dobj
+filtrate,01461293,dobj
+finish off,00485823,dobj
+finish up,00485823,dobj
+finish,00485097,dobj
+finish,02615799,subj
+finish,00352617,pobj_with
+fire,02407967,dobj
+fire,00379335,dobj
+fizzle out,02689494,subj
+fizzle,02689494,subj
+flag,00156293,subj
+fleet,00422644,subj
+fling,02227100,dobj
+flop,02535669,subj
+flop,01976767,subj
+flout,00803444,dobj
+flub,02533317,dobj
+fluff,02533317,dobj
+fly,00152881,subj
+foil,02563998,dobj
+fold,02431242,subj
+fold,02431242,dobj
+forbear,02731919,dobj
+forbear,02731589,comp
+forbear,02731589,pobj_from
+forbid,00797525,comp
+forbid,00797525,dobj
+forbid,02458316,dobj
+force back,01508789,dobj
+force out,02407967,dobj
+force out,02410394,dobj
+force out,01470687,dobj
+foreclose,02458316,dobj
+forefend,02458770,dobj
+forego,02539728,dobj
+forego,02308311,dobj
+forestall,02458316,dobj
+foreswear,02539728,dobj
+foreswear,02232269,dobj
+forfeit,02308311,dobj
+forfend,02458770,dobj
+forgo,02539728,dobj
+forgo,02308311,dobj
+forget,00611721,dobj
+forget,00616520,comp
+forget,00614532,dobj
+forget,00610654,dobj
+forsake,00615748,dobj
+forswear,00800379,dobj
+foul up,02533317,dobj
+founder,02535669,subj
+founder,01993067,subj
+fracture,01624121,dobj
+fracture,00336176,subj
+fragmentise,00338881,subj
+fragmentise,00338881,dobj
+fragmentize,00338881,subj
+fragmentize,00338881,dobj
+fragment,00338881,subj
+fragment,00338881,dobj
+free,02355171,pobj_of
+free,01531310,dobj
+free,02570061,pobj_from
+free,00904187,pobj_from
+free,02427126,pobj_from
+free,02321284,dobj
+fret,00275523,subj
+fret,00275523,dobj
+fret,00275432,subj
+fret,00275432,dobj
+freeze off,00798638,dobj
+freeze,01838672,subj
+freeze,00364146,dobj
+freeze,00270309,dobj
+erode,00275523,dobj
+frustrate,02563998,dobj
+fuck up,02533317,dobj
+fudge,00811316,dobj
+fumble,02533317,dobj
+furlough,02408679,dobj
+gag,02195389,dobj
+get around,00812833,dobj
+get away,02078906,pobj_from
+get off,02417219,pobj_from
+get out,02019450,dobj
+get over,01111038,dobj
+get over,00268897,dobj
+get through,00485823,dobj
+give out,00561324,subj
+give out,00435327,subj
+give up,02308311,dobj
+give up,02321284,dobj
+give up,02240011,dobj
+give up,01199057,comp
+give up,01199057,dobj
+give up,02232523,dobj
+give up,02372031,dobj
+give up,00614907,dobj
+give up,02686624,comp
+give up,02686624,dobj
+give up,01118003,subj
+give,02348591,dobj
+give,01993067,subj
+gnaw,00276052,subj
+goldbrick,02469127,dobj
+go around,00812833,dobj
+go away,01852660,pobj_from
+go away,02013448,subj
+go away,02013448,pobj_from
+go away,02160976,subj
+go away,00427911,subj
+go down,01974840,subj
+go down,01993887,subj
+go down,00432779,subj
+go down,01102277,subj
+go down,00435872,subj
+go forth,02013448,subj
+go off,01529580,subj
+go out,02019450,pobj_of
+go out,00353073,subj
+go up,00378022,subj
+go,01852660,pobj_from
+go,00360569,subj
+go,01195306,subj
+go,00359085,subj
+go,00435327,subj
+halt,01863572,dobj
+halt,02565578,dobj
+halt,00355106,dobj
+halt,01864781,subj
+halter,00237139,dobj
+hamper,00237139,dobj
+hamper,01087885,dobj
+hamstring,01803640,dobj
+handicap,00091720,dobj
+handicap,01087885,dobj
+harm,00102340,dobj
+head off,02458770,dobj
+heal,00081478,dobj
+heal,00098938,subj
+heal,00271360,subj
+hedge,00811316,dobj
+hedge,00429020,dobj
+hedge,01618094,dobj
+help,02732039,comp
+help,00207406,dobj
+hinder,02456614,dobj
+hinder,02563025,dobj
+hinder,01087885,dobj
+hit,02488014,dobj
+hobble,02457671,dobj
+hog-tie,01290532,dobj
+hold back,01133899,dobj
+hold back,02731919,dobj
+hold back,02731919,pobj_from
+hold back,02647547,comp
+hold down,00236613,dobj
+hold off,01119743,dobj
+hold off,02647547,comp
+hold out,01119003,dobj
+hold over,02648898,dobj
+hold up,00460731,dobj
+hold up,02712676,dobj
+hold,02649658,dobj
+hold,01863572,dobj
+hold,02712676,dobj
+humify,00115887,dobj
+hurt,00261356,dobj
+hurt,01797206,dobj
+hush up,00462448,dobj
+hush,00462448,dobj
+ignore,00802592,dobj
+ignore,02123706,dobj
+ignore,00618547,dobj
+ignore,01061436,dobj
+immobilise,01209769,dobj
+immobilise,00270309,dobj
+immobilise,00270026,dobj
+immobilize,01209769,dobj
+immobilize,00270309,dobj
+immobilize,00270026,dobj
+impair,00478872,dobj
+impair,00263767,dobj
+impede,02456614,dobj
+impede,01479113,dobj
+imperil,02702962,dobj
+impinge,02575705,pobj_on
+impinge,02575705,pobj_upon
+impinge,01997384,pobj_on
+impinge,01997384,pobj_upon
+impoverish,00172745,dobj
+improve,00206293,dobj
+improve,00205454,subj
+inactivate,00191849,dobj
+incapacitate,00513267,dobj
+incapacitate,00091720,dobj
+incinerate,00379032,subj
+indemnify,02255433,pobj_for
+indispose,00302119,pobj_for
+indispose,00302119,pobj_from
+infract,02572443,dobj
+infringe,02573062,dobj
+infringe,01997384,dobj
+infringe,01997384,pobj_on
+infringe,01997384,pobj_upon
+inhibit,00463563,dobj
+inhibit,00463563,pobj_from
+inhibit,02428558,dobj
+inhibit,02456941,dobj
+injure,01797206,dobj
+injure,00261356,dobj
+interchange,02262575,dobj
+interdict,01624455,dobj
+interdict,00797525,dobj
+interdict,00797525,pobj_from
+interfere,02457343,pobj_with
+intermit,00781106,dobj
+interrupt,00780320,dobj
+interrupt,00521437,dobj
+interrupt,00364717,dobj
+interrupt,00521099,dobj
+invalid,02409926,dobj
+invalid,00091720,dobj
+invalidate,02483482,dobj
+invalidate,00802122,dobj
+invalidate,00669020,dobj
+invalidate,00449395,dobj
+iron out,00208463,dobj
+jam,01058906,dobj
+jam,01479113,dobj
+jam,01527965,subj
+jeopardise,02702962,dobj
+jeopardize,02702962,dobj
+jettison,02227918,dobj
+jib,02589630,pobj_at
+jump,00618188,dobj
+junk,02228020,dobj
+keep down,02428975,dobj
+keep off,01192356,dobj
+keep out,02454205,dobj
+keep,02455370,pobj_from
+kibosh,02565578,dobj
+kick out,02507387,dobj
+kick out,02406951,dobj
+kick,01199057,comp
+kick,01199057,dobj
+kill off,01330264,dobj
+kill,01326622,dobj
+kill,00355692,dobj
+kill,01328456,dobj
+kill,01328218,dobj
+kill,00479761,dobj
+kill,00356019,dobj
+kill,00355831,dobj
+kill,02479111,dobj
+knock down,01242426,dobj
+knock down,00336968,dobj
+knock off,00363763,dobj
+knock off,01329983,dobj
+knock out,00473357,dobj
+knock out,00180747,dobj
+lack,02638434,dobj
+lack,02638434,pobj_for
+lack,02638434,pobj_in
+lag,02001894,subj
+lapse,00352478,subj
+lapse,02308741,dobj
+lay off,02686624,comp
+lay off,02686624,dobj
+lay off,02408679,dobj
+leave behind,02085825,dobj
+leave off,02689901,comp
+leave off,00617464,dobj
+leave off,00573738,dobj
+leave out,00617464,dobj
+leave out,00616690,dobj
+leave,00615374,dobj
+leave,02019450,dobj
+leave,02388582,dobj
+leave,00614532,dobj
+leave,02013448,subj
+leave,02013448,dobj
+lessen,00151509,subj
+lessen,00233328,subj
+lessen,00442400,dobj
+let off,00895399,dobj
+let up,00245945,subj
+let up,00156084,dobj
+level,01665698,dobj
+lick,00636568,dobj
+lift,00178766,dobj
+lift,00354849,dobj
+lift,00801460,dobj
+lighten,00199442,dobj
+liquidate,01329983,dobj
+loosen,02607993,dobj
+loosen,00420328,dobj
+loosen,01287511,dobj
+loosen,02607805,subj
+loosen,00420090,subj
+loose,00420328,dobj
+loose,00420090,subj
+lop off,01301854,dobj
+lose,02292634,dobj
+lose,01799093,dobj
+lose,02292463,dobj
+lose,02293733,dobj
+lose,02293000,dobj
+lose,02132318,dobj
+lour,00532569,dobj
+lour,00268741,dobj
+louse up,02533317,dobj
+lower,00532569,dobj
+lower,00268741,dobj
+lower,01577754,dobj
+lull,00559138,subj
+lull,01768652,dobj
+lurch,01106104,dobj
+make up,02678329,dobj
+malfunction,01528083,subj
+mangle,00293434,dobj
+mangle,01234662,dobj
+mark down,02325058,dobj
+mark,00802412,pobj_from
+mar,00478872,dobj
+mar,00090460,dobj
+master,01111038,dobj
+mate,01116893,dobj
+maul,01234662,dobj
+meliorate,00206293,dobj
+meliorate,00205454,subj
+melt off,00045548,subj
+melt off,00045548,dobj
+melt,00225077,subj
+melt,00224354,subj
+menace,02702962,dobj
+mend,00271360,subj
+mess up,02533317,dobj
+mince,01059908,dobj
+minimise,00428755,dobj
+minimize,00428755,dobj
+minify,00442400,dobj
+mire,01839045,dobj
+mire,01838838,subj
+miscarry,02534046,subj
+misdirect,02585532,dobj
+misdo,02568929,dobj
+misfunction,01528083,subj
+mishandle,02533317,dobj
+miss,02132318,dobj
+miss,02619707,dobj
+miss,00616690,dobj
+miss,02026505,dobj
+miss,01240465,dobj
+miss,00812219,dobj
+miss,02638919,subj
+miss,02638434,subj
+mitigate,00907990,dobj
+mitigate,00199225,dobj
+moderate,00199085,dobj
+moderate,01059908,dobj
+moderate,00295646,dobj
+moderate,00935528,dobj
+molder,00210263,subj
+mollify,00295646,dobj
+mollify,00256913,dobj
+mop up,00485823,dobj
+moulder,00210263,subj
+move back,01998474,pobj_from
+move out,02410046,dobj
+muck up,02533317,dobj
+muffle,01571411,dobj
+muffle,02195757,dobj
+muff,02533317,dobj
+murder,02488014,dobj
+mute,02195757,dobj
+mutilate,00293434,dobj
+mutilate,00090460,dobj
+muzzle,02195389,dobj
+negate,02669219,dobj
+negate,00825097,dobj
+negate,00668804,dobj
+negate,00471015,dobj
+negative,02478854,dobj
+neglect,00616690,dobj
+neglect,00618547,dobj
+neglect,02534950,comp
+neutralise,00471015,dobj
+neutralise,01329983,dobj
+neutralize,00471015,dobj
+neutralize,02549571,dobj
+neutralize,01329983,dobj
+nix,00797525,dobj
+nol.pros.,00363921,dobj
+nullify,02483482,dobj
+nullify,00669020,dobj
+nullify,00471015,dobj
+numb,02119756,dobj
+object,00809123,comp
+obliterate,00479761,dobj
+obliterate,00312120,dobj
+obliterate,00473161,dobj
+obstruct,02563025,dobj
+obstruct,01479113,dobj
+obtund,00192688,dobj
+obturate,01479113,dobj
+obviate,02635337,dobj
+obviate,02458770,dobj
+occlude,01479113,dobj
+off,02488014,dobj
+offend,02572443,dobj
+offend,01797206,dobj
+offset,02723890,dobj
+offset,02723706,dobj
+omit,00617464,dobj
+omit,00616690,dobj
+oppose,01093838,dobj
+oppose,00778104,dobj
+oppress,02429499,dobj
+opt out,00681634,pobj_of
+ostracise,02509666,dobj
+ostracise,02471081,dobj
+ostracize,02509666,dobj
+ostracize,02471081,dobj
+oust,02406951,dobj
+oust,02411579,dobj
+outgrow,00544825,dobj
+outrage,02573980,dobj
+overcome,01110559,dobj
+overcome,01111038,dobj
+overleap,00616690,dobj
+overlook,02170805,dobj
+overlook,00616690,dobj
+overmaster,01112928,dobj
+overpower,01112928,dobj
+override,00718035,dobj
+override,02650706,dobj
+override,02549888,dobj
+overrule,00718035,dobj
+overthrow,00718035,dobj
+overthrow,02407551,dobj
+overturn,00718035,dobj
+overturn,00801460,dobj
+overturn,02407551,dobj
+overwhelm,01112928,dobj
+overwrite,01001124,dobj
+palliate,00907990,dobj
+palliate,00063866,dobj
+palsy,00269566,dobj
+paralyse,00269682,dobj
+paralyze,00269682,dobj
+pare down,00233461,dobj
+pare,00233461,dobj
+parry,01149526,dobj
+parry,00811316,dobj
+part,02436167,subj
+pass away,00359085,subj
+pass away,00352230,subj
+pass off,00422644,subj
+pass over,00618188,dobj
+pass up,02242120,dobj
+pass up,02123818,dobj
+pass,00422644,subj
+pass,00359085,subj
+pass,00072742,dobj
+patch up,00263589,dobj
+patch,00263589,dobj
+pause,00781106,dobj
+peril,02702962,dobj
+peril,01038191,dobj
+perish,00359085,subj
+perturb,00277400,dobj
+pervert,02585532,dobj
+peter out,02689494,subj
+peter out,00099271,subj
+phase out,01646362,dobj
+pin,01209769,dobj
+pip out,00360460,subj
+play out,02285714,dobj
+play out,00573865,subj
+plummet,01982213,subj
+plump,01982213,subj
+plunge,01971380,subj
+plunge,01981094,subj
+plunk,01971380,subj
+poison,02586763,dobj
+poison,01326002,dobj
+poleax,01261206,dobj
+poleaxe,01261206,dobj
+polish off,02488014,dobj
+polish off,00485823,dobj
+pooh-pooh,00798638,dobj
+poop out,00099271,subj
+pop off,00359085,subj
+postpone,02648898,dobj
+powderise,00333255,subj
+powderize,00333255,subj
+preclude,02458316,dobj
+preclude,02635471,dobj
+preempt,02411141,dobj
+press out,00479613,dobj
+pretermit,00618983,dobj
+pretermit,00616690,dobj
+prevent,02458316,dobj
+prevent,02455370,pobj_from
+procrastinate,02648322,dobj
+procrastinate,02648694,dobj
+profane,02585532,dobj
+profane,02573980,dobj
+prohibit,00797525,dobj
+prohibit,00797525,pobj_from
+prorogue,02648898,dobj
+prorogue,02433618,dobj
+proscribe,00797525,dobj
+protect,01130619,pobj_from
+protect,01130619,pobj_against
+prune,00474253,dobj
+pull away,01998474,pobj_from
+pull back,00801045,pobj_from
+pull back,01998474,pobj_from
+pull down,01242426,dobj
+pull down,01665698,dobj
+pull out,01353852,dobj
+pull out,02386122,pobj_of
+pull up,01353852,dobj
+pull,01353852,dobj
+pull,00572673,dobj
+pulverise,01660001,dobj
+pulverise,00333255,subj
+pulverize,01660001,dobj
+pulverize,00333255,subj
+puncture,00857916,dobj
+purge,02571005,dobj
+purge,00476578,pobj_of
+push aside,00802592,dobj
+push back,01508789,dobj
+push down,01242426,dobj
+put aside,01618895,dobj
+put aside,00780930,dobj
+put away,01618895,dobj
+put away,00780930,dobj
+put away,01329815,dobj
+put away,02227100,dobj
+put down,01329210,dobj
+put off,02648898,dobj
+put off,00811316,dobj
+put out,02766453,dobj
+put out,01156848,dobj
+put over,02648898,dobj
+putrefy,00400459,subj
+puzzle out,00636568,dobj
+quash,02428975,dobj
+quash,02483482,dobj
+queer,02563998,dobj
+queer,01038191,dobj
+quell,00464147,dobj
+quell,01196647,dobj
+quench,01206641,dobj
+quench,02767855,dobj
+quench,00464147,dobj
+quieten,01768652,dobj
+quieten,00462448,dobj
+quiet,01768652,dobj
+quit,02686624,comp
+quit,02686624,dobj
+quit,02012411,dobj
+quit,02232269,dobj
+raise,00354849,dobj
+ram,01564601,subj
+rase,01665698,dobj
+rationalise,00474253,dobj
+rationalize,00474253,dobj
+ravage,00389306,dobj
+ravel out,01524000,dobj
+ravel,01524000,dobj
+raze,01665698,dobj
+rebuff,00800201,dobj
+rebuff,01133623,dobj
+rebut,00816512,dobj
+rebut,00669665,dobj
+recalcitrate,01094255,pobj_against
+recalcitrate,01094255,pobj_at
+recant,00800379,dobj
+recede,01998474,pobj_from
+recede,01116231,subj
+recede,00571771,subj
+reclaim,00385291,dobj
+recompense,02255433,pobj_for
+recoup,02254399,pobj_for
+recoup,02254246,dobj
+recover,00092442,pobj_from
+recover,02254246,dobj
+rectify,00200276,dobj
+rectify,00200023,dobj
+rectify,00385291,dobj
+recuperate,00092442,pobj_from
+recuperate,02254246,dobj
+redress,02525657,dobj
+reduce,00430013,dobj
+reduce,02322816,dobj
+reduce,00241017,dobj
+reduce,00241924,dobj
+reduce,02428975,dobj
+reduce,00045548,subj
+reduce,00045548,dobj
+reform,00385291,dobj
+reform,00266559,dobj
+refrain,02731589,pobj_from
+refrain,01198570,pobj_from
+refuse,00799092,comp
+refuse,02217607,dobj
+refuse,02713660,dobj
+refuse,02242120,dobj
+refuse,02508565,dobj
+refute,00816512,dobj
+refute,00669665,dobj
+regenerate,00385291,dobj
+reimburse,02254399,pobj_for
+reject,00687584,dobj
+reject,02242120,dobj
+reject,02508565,dobj
+reject,00687320,dobj
+reject,00798638,dobj
+relax,02607993,dobj
+relax,02607805,subj
+relax,00420090,subj
+relax,00442167,dobj
+release,01477180,dobj
+release,00104622,dobj
+release,02321284,dobj
+relegate,02509452,dobj
+relieve,00063866,dobj
+relieve,00082316,dobj
+relieve,00199442,dobj
+relieve,02417305,pobj_of
+relieve,02570061,pobj_from
+relieve,00895399,pobj_from
+relieve,01819152,dobj
+relieve,02317976,pobj_of
+relinquish,02321284,dobj
+relinquish,02539728,dobj
+relinquish,01477180,dobj
+relinquish,02232269,dobj
+remediate,00200276,dobj
+remedy,00200276,dobj
+remedy,00082316,dobj
+remit,02648898,dobj
+remove,00173351,dobj
+remove,02488014,dobj
+remove,00572138,dobj
+remove,02410046,dobj
+remove,02409366,dobj
+remove,02228837,dobj
+remove,00422488,pobj_from
+renege on,00801904,dobj
+renege,00801904,pobj_on
+renegue on,00801904,dobj
+renounce,02384340,dobj
+renounce,02372031,dobj
+renounce,00759589,dobj
+renounce,02232269,dobj
+repair,02255433,dobj
+repair,00200276,dobj
+repel,01508789,dobj
+repel,01133623,dobj
+repel,00800201,dobj
+repeal,00801460,dobj
+replace,00162496,dobj
+replace,02410532,dobj
+replace,02262575,dobj
+repress,02428975,dobj
+repress,01571411,dobj
+repress,02457192,dobj
+repress,00587675,dobj
+reprieve,02557087,dobj
+repudiate,00759589,dobj
+repudiate,00687940,dobj
+repudiate,00913870,dobj
+repudiate,00818489,dobj
+repulse,01133623,dobj
+repulse,01508789,dobj
+rescind,00801460,dobj
+resign,02372031,dobj
+resign,02321284,dobj
+resile,02386369,pobj_from
+resile,00800379,dobj
+resist,02589630,dobj
+resist,01119003,dobj
+resist,02713660,dobj
+resolve,00735067,dobj
+restrain,01303637,dobj
+restrain,02456292,pobj_from
+restrict,00237442,comp
+restrict,00237442,dobj
+restrict,02455890,dobj
+retard,02758442,subj
+retard,00441241,dobj
+retard,00440913,subj
+retire,02385151,pobj_from
+retire,01998474,pobj_from
+retire,02385393,dobj
+retire,02230124,dobj
+retire,01156641,dobj
+retract,00800379,dobj
+retract,02065294,pobj_from
+retreat,00801045,pobj_from
+retreat,01998474,pobj_from
+retrench,00431052,dobj
+reverse,00718035,dobj
+reverse,00801460,dobj
+revoke,00801460,dobj
+rid,02355171,pobj_of
+rid of,02635337,dobj
+right,02525657,dobj
+right,00200023,dobj
+rip out,01353852,dobj
+rip off,00179012,dobj
+risk,02551275,dobj
+root out,01569697,dobj
+root out,01666012,dobj
+rot,00210263,subj
+rout out,01111362,dobj
+rout,01111362,dobj
+rub down,01256577,dobj
+rub off,01256577,dobj
+rub out,01551500,dobj
+ruin,01566925,dobj
+ruin,02564777,dobj
+ruin,00580070,subj
+rule out,02635471,dobj
+rule out,00687320,dobj
+run down,00099271,subj
+run down,02285714,dobj
+run off,02006752,dobj
+run out,00562648,subj
+run out,02690607,subj
+run out,00561324,subj
+run out,00099271,subj
+run out,00562791,pobj_of
+run through,01159815,dobj
+rust,00274762,subj
+rust,00275082,dobj
+sabotage,02549304,dobj
+sack,02407967,dobj
+sacrifice,02348591,dobj
+sacrifice,02330554,dobj
+sacrifice,01328775,dobj
+sap,02285714,dobj
+scale down,00241017,dobj
+scatter,02034269,dobj
+scoff,00803444,pobj_at
+scorch,00583604,dobj
+score out,01551500,dobj
+scorn,00798638,dobj
+scotch,02563998,dobj
+scourge,00389306,dobj
+scrap,02228020,dobj
+scrap,00570947,dobj
+scratch,02483178,dobj
+scratch,01552202,dobj
+scratch out,01552501,dobj
+screen,01132595,pobj_from
+screen,01480168,pobj_from
+screw up,02533317,dobj
+scrub,02483178,dobj
+scupper,01038191,dobj
+seal off,01129272,dobj
+season,00295646,dobj
+secede,02541123,subj
+seclude,00496934,pobj_from
+sedate,00022309,dobj
+self-destroy,01623473,subj
+self-destruct,01623473,subj
+send away,02471362,dobj
+send away,02407967,dobj
+separate out,01461293,dobj
+separate,02436167,subj
+separate,00334996,subj
+sequester,00496934,pobj_from
+sequestrate,00496934,pobj_from
+set aside,00543748,dobj
+set aside,02483910,dobj
+set back,02648898,dobj
+set back,02457523,dobj
+set off,02723706,dobj
+settle down,01767681,subj
+settle,01993887,subj
+sever,01563766,dobj
+shake off,02077473,dobj
+shake off,01516062,dobj
+shake,02077473,dobj
+shatter,00334568,subj
+shatter,00334860,dobj
+shatter,00334717,dobj
+shed,01516062,dobj
+shelve,02648898,dobj
+shield,01132595,pobj_from
+shillyshally,02648322,dobj
+shipwreck,02565439,dobj
+shipwreck,02534828,subj
+shirk,02469127,dobj
+shirk,00813543,dobj
+shoo away,02007494,dobj
+shoo off,02007494,dobj
+shoo,02007494,dobj
+shoot down,02479111,dobj
+short-circuit,02564637,dobj
+short-circuit,00812833,dobj
+shrink back,02065294,pobj_from
+shrink,00241924,dobj
+shrink,00241457,subj
+shrink,00152378,subj
+shrive,00905665,dobj
+shrivel,00152378,subj
+shun,00813811,dobj
+shun,02509666,dobj
+shut down,02431242,subj
+shut down,02431242,dobj
+shut off,01480024,dobj
+shut off,02035671,pobj_from
+shut out,02454205,dobj
+shut up,00462448,dobj
+shut,02454205,dobj
+sidestep,00811316,dobj
+sign away,02348812,dobj
+sign over,02348812,dobj
+silence,00462448,dobj
+simmer down,01767681,subj
+sink,01989937,subj
+sink,01993887,subj
+sink,00433792,subj
+sink,01992900,subj
+sit out,02732418,dobj
+skip over,00618188,dobj
+skip,00618188,dobj
+skip,02619895,dobj
+skirt,00811316,dobj
+skunk,01106104,dobj
+slacken off,00156293,subj
+slacken,00441535,subj
+slacken,00442167,dobj
+slack off,00245945,subj
+slack up,00442167,dobj
+slack,00618051,dobj
+slack,00442167,dobj
+slack,00441535,subj
+slack,00245945,subj
+slack,00246175,dobj
+slake,01206641,dobj
+slake,00246175,dobj
+slash,00431214,dobj
+slash,01325339,dobj
+slay,02488014,dobj
+slenderize,00045548,subj
+slenderize,00045548,dobj
+slim down,00045548,subj
+slim down,00045548,dobj
+slim,00045548,subj
+slim,00045548,dobj
+slip,00204753,subj
+slough off,02227628,dobj
+slow down,00440913,subj
+slow down,00441535,subj
+slow down,00441741,dobj
+slow down,00439450,dobj
+slow up,00441535,subj
+slow up,00440913,subj
+slow up,00441741,dobj
+slow,00440913,subj
+slow,00441535,subj
+slow,00441741,dobj
+slump,01992900,subj
+slump,00433792,subj
+smash up,01569486,dobj
+smash,00336733,dobj
+smash,01569486,dobj
+smash,01085987,dobj
+smash,00335459,subj
+smooth out,02318078,dobj
+smooth,02318078,dobj
+smother,01571411,dobj
+snap,00337875,subj
+snub,01061436,dobj
+snub,00800201,dobj
+snuff out,00479148,dobj
+snuff out,02767855,dobj
+soften,00390886,dobj
+soften,01579748,dobj
+soften,01059908,dobj
+solve,00636568,dobj
+solve,00735067,dobj
+solve,00763499,dobj
+soothe,00063687,dobj
+sour,00459426,subj
+spare,02570589,dobj
+spare,02570589,pobj_from
+spirit away,01437633,dobj
+spirit away,01435547,dobj
+spirit off,01437633,dobj
+spite,01797206,dobj
+splinter,02541123,subj
+split up,02436167,subj
+split up,00334996,subj
+split,02436167,subj
+spoil,02533317,dobj
+spoil,00478872,dobj
+spoil,02563998,dobj
+spurn,00798638,dobj
+squander,02273196,dobj
+squeeze out,02409218,dobj
+squelch,00464147,dobj
+stagnate,02731161,subj
+stagnate,02730942,dobj
+stalemate,01079596,dobj
+stall,02648322,dobj
+stall,00461510,dobj
+stall,01866326,subj
+stall,01866482,dobj
+stamp down,00463047,dobj
+stamp out,00355692,dobj
+stanch,00355106,dobj
+stand back,02661794,pobj_from
+starve,01190481,pobj_of
+staunch,00355106,dobj
+stave off,02458770,dobj
+stay,00461855,dobj
+stay,01196647,dobj
+stay away,02661794,pobj_from
+steamroller,01113072,dobj
+steamroll,01113072,dobj
+stem,00355106,dobj
+step down,00291502,dobj
+stifle,01571411,dobj
+stifle,00391513,dobj
+still,01768652,dobj
+still,00462448,dobj
+still,01819152,dobj
+still,00584982,dobj
+stonewall,01036804,dobj
+stonewall,00461087,dobj
+stop,01864781,subj
+stop,02615799,subj
+stop,02686624,comp
+stop,02686624,dobj
+stop,02565578,dobj
+stop,00363001,dobj
+stop,01863207,dobj
+stop,01133899,dobj
+stop,01480632,dobj
+straighten out,00208463,dobj
+strain,01461293,dobj
+strangle,01571411,dobj
+strangle,00237139,dobj
+stray,01929647,pobj_from
+strike down,02482757,dobj
+strike down,01328616,dobj
+strike down,01260866,dobj
+strike off,00802412,dobj
+strike out,00802412,dobj
+strike out,01156641,dobj
+strike out,02534499,subj
+strike,01552202,dobj
+strip,00194878,pobj_of
+strip,02319255,pobj_of
+stub out,00479613,dobj
+stultify,00226258,dobj
+stymie,02563025,dobj
+stymy,02563025,dobj
+subdue,02428975,dobj
+subdue,00463047,dobj
+subdue,01111038,dobj
+subjugate,02428975,dobj
+subside,00233328,subj
+subside,01990381,subj
+substitute,02262575,dobj
+subvert,02407551,dobj
+subvert,01567809,dobj
+subvert,02585532,dobj
+subvert,02549304,dobj
+suffocate,00391905,subj
+suffocate,00391723,dobj
+sunder,00336624,dobj
+supersede,02410532,dobj
+supervene upon,02410532,dobj
+supplant,02410532,dobj
+suppress,00463047,dobj
+suppress,02428558,dobj
+suppress,02429499,dobj
+suppress,00153784,dobj
+surmount,01111038,dobj
+surrender,02240011,dobj
+surrender,01118003,subj
+suspend,00364146,dobj
+suspend,00543748,dobj
+suspend,02649824,dobj
+suspend,02507686,dobj
+swallow,00800738,dobj
+swallow,00739357,dobj
+swear off,00886335,dobj
+sweep away,01624256,dobj
+switch off,01513208,dobj
+table,02648898,dobj
+taboo,02514626,dobj
+take,00173351,dobj
+take apart,01661660,dobj
+take apart,01575341,dobj
+take away,00173351,dobj
+take away,00572138,dobj
+take away,02210501,pobj_from
+take away,00533195,pobj_from
+take back,00800738,dobj
+take down,01665698,dobj
+take off,00179205,dobj
+take out,02410046,dobj
+take out,01353852,dobj
+take out,00617464,dobj
+take over,02417305,dobj
+tame,00935528,dobj
+taper off,02689494,subj
+taper off,00306198,subj
+taper,00152582,subj
+tear away,00179012,dobj
+tear down,01665698,dobj
+tear off,00179012,dobj
+tear out,01353852,dobj
+temper,00295646,dobj
+terminate,00353480,dobj
+terminate,02407967,dobj
+terminate,02615799,subj
+thin,00045548,subj
+threaten,02702962,dobj
+throw away,02227100,dobj
+throw away,01516062,dobj
+throw,01516062,dobj
+throw off,01516062,dobj
+throw off,02077473,dobj
+throw out,02507387,dobj
+throw out,02406951,dobj
+throw out,02227100,dobj
+throw out,00803288,dobj
+thwart,02563998,dobj
+tie up,01479644,dobj
+tire,02285714,dobj
+tone down,00935528,dobj
+tone down,02195757,dobj
+topple,01980502,subj
+topple,02101325,dobj
+toss away,02227100,dobj
+toss out,02227100,dobj
+toss,02227100,dobj
+total,00260268,dobj
+tramp down,01871490,dobj
+trample,01871490,dobj
+trample,00070210,dobj
+tranquilize,01768652,dobj
+tranquilize,00022309,dobj
+tranquillise,01768652,dobj
+tranquillise,00022309,dobj
+tranquillize,01768652,dobj
+tranquillize,00022309,dobj
+transgress,02572443,dobj
+trap,01209769,dobj
+trash,02228020,dobj
+tread down,01871490,dobj
+trench,02575705,pobj_on
+trench,02575705,pobj_upon
+trim back,00430013,dobj
+trim down,00430013,dobj
+trim,00430013,dobj
+trouble-shoot,00263435,dobj
+troubleshoot,00263435,dobj
+tumble,01980502,subj
+tumble,02045722,subj
+tumble,00204643,subj
+tumble,02101325,dobj
+turf out,01471205,dobj
+turn away,02508565,dobj
+turn back,02006752,dobj
+turn back,01133899,dobj
+turn down,02242120,dobj
+turn down,02508565,dobj
+turn down,00574017,dobj
+turn down,00268741,dobj
+turn down,00798638,dobj
+turn off,01513208,dobj
+turn out,01513208,dobj
+turn out,01471205,dobj
+turn,00459426,subj
+unarm,01090416,dobj
+unburden,02365170,pobj_from
+unburden,02365170,pobj_of
+unburden,01490553,pobj_from
+unburden,01490553,pobj_of
+undermine,02549304,dobj
+undershoot,01154998,dobj
+undo,01622250,dobj
+undo,02565025,dobj
+undo,01522610,dobj
+undo,01287511,dobj
+unfit,00302119,pobj_for
+unfit,00302119,pobj_from
+unhand,01477847,dobj
+unlearn,00599897,dobj
+unmake,01622250,dobj
+unplug,01424071,dobj
+unravel,01524000,dobj
+unsay,00800738,dobj
+untangle,01588680,pobj_from
+untie,01287511,dobj
+uproot,01666012,dobj
+uproot,01569697,dobj
+upset,00522376,dobj
+use up,01159815,dobj
+use,01160888,dobj
+usher out,00902491,dobj
+vacate,02372031,dobj
+vacate,02080923,dobj
+vacate,00801460,dobj
+vandalise,01523087,dobj
+vandalize,01523087,dobj
+vanish,00427911,subj
+vanish,02160976,subj
+vanish,00428350,subj
+vanish,00152881,subj
+vaporise,00576797,subj
+vaporise,00577047,dobj
+vaporize,01327970,dobj
+vaporize,00152881,subj
+veto,02478854,dobj
+veto,00797525,dobj
+violate,02674312,dobj
+violate,01210308,dobj
+violate,02572443,dobj
+violate,02573980,dobj
+vitiate,02585532,dobj
+vitiate,00478872,dobj
+vitiate,00449395,dobj
+void,00449395,dobj
+void,02483482,dobj
+void,00451258,pobj_of
+volatilise,00553330,dobj
+volatilize,00553330,dobj
+vote down,02479111,dobj
+vote down,02467453,dobj
+vote out,02479111,dobj
+wait,02647547,comp
+waive,02539728,dobj
+waive,02308311,dobj
+walk away,02014079,pobj_from
+walk off,02014079,pobj_from
+walk out,02014252,pobj_of
+walk out,00616355,pobj_of
+wane,00432779,subj
+wane,00434886,subj
+want,02638648,dobj
+ward off,02458770,dobj
+ward off,01132017,dobj
+wash,00558763,dobj
+wash away,00572350,dobj
+wash away,00558763,dobj
+wash off,00558763,dobj
+wash out,00558763,dobj
+wash out,01608772,dobj
+waste,02273196,dobj
+waste,02228261,dobj
+waste,00389306,dobj
+waste,01329983,dobj
+water down,00489237,dobj
+waver,02746079,subj
+weaken,00223926,subj
+weaken,02549304,dobj
+weaken,00291502,dobj
+weaken,00390886,dobj
+wear,01372011,subj
+wear,00470295,subj
+wear away,01256888,dobj
+wear away,00276052,subj
+wear down,00470295,dobj
+wear off,00470295,dobj
+wear off,01256888,dobj
+wear out,01372011,subj
+wear out,00470295,dobj
+weed out,02228412,dobj
+winkle out,02409764,dobj
+winkle out,01354857,dobj
+winkle,01354857,dobj
+winnow out,00687320,dobj
+wipe away,01395572,dobj
+wipe off,01395572,dobj
+wipe off,01551500,dobj
+wipe out,01159815,dobj
+wipe out,00471632,dobj
+wipe out,01624256,dobj
+wipe out,00480322,dobj
+wipe out,00479761,dobj
+wipe out,00472127,dobj
+withdraw,02385151,pobj_from
+withdraw,01514012,pobj_from
+withdraw,00496934,pobj_from
+withdraw,00801045,pobj_from
+withdraw,00800738,dobj
+withdraw,01998474,pobj_from
+withdraw,00173351,dobj
+wither,00422870,subj
+withstand,02712676,dobj
+withstand,01119003,dobj
+work off,02228640,dobj
+work out,00636568,dobj
+work,00636568,dobj
+work,00459426,subj
+worsen,00204228,subj
+wound,01797206,dobj
+wrack,01568966,dobj
+wrap up,00485823,dobj
+wreck,01568966,dobj
+write off,02483078,dobj
+yield up,02240331,dobj
+zap,01327970,dobj

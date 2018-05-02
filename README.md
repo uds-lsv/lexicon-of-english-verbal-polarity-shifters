@@ -81,6 +81,11 @@ This list, therefore, provides (almost) the same granularity for the shifter lab
 However, in a few exceptions, synsets contained words with subtly different senses that did not all cause shifting.
 These senses are considered shifters in this list, analogous to the generalisation in the list of lemmas.
 
+## Attribution
+This data set is published under [Creative Commons Attribution 4.0](https://github.com/uds-lsv/lexicon-of-english-verbal-polarity-shifters/blob/master/LICENSE).
+
+If you use it in your research or work, please cite the publication (see above).
+
 ## Acknowledgements
 This work was partially supported by the German Research Foundation (DFG) under grants RU 1873/2-1 and WI4204/2-1.
 

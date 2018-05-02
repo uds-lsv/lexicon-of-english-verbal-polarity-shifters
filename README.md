@@ -81,5 +81,8 @@ This list, therefore, provides (almost) the same granularity for the shifter lab
 However, in a few exceptions, synsets contained words with subtly different senses that did not all cause shifting.
 These senses are considered shifters in this list, analogous to the generalisation in the list of lemmas.
 
+## Acknowledgements
+This work was partially supported by the German Research Foundation (DFG) under grants RU 1873/2-1 and WI4204/2-1.
+
 ## References
 G. Miller, R. Beckwith, C. Fellbaum, D. Gross, K. Miller: "Introduction to WordNet: An On-Line Lexical Database". International Journal of Lexicography, 3:235-244, 1990.

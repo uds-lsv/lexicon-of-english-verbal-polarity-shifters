@@ -90,7 +90,7 @@ If you use it in your research or work, please cite the publication (see above).
 ### BibTex
 ```
 @InProceedings{schulder2018verbalshifter,
-  author = {Schulder, Marc and Wiegand, Michael and Ruppenhofer, Josef and K\"oser, Stephanie},
+  author = {Schulder, Marc and Wiegand, Michael and Ruppenhofer, Josef and K{\"o}ser, Stephanie},
   title = {Introducing a Lexicon of Verbal Polarity Shifters for English},
   booktitle = {Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},
   volume={1},

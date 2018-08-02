@@ -99,8 +99,7 @@ If you use it in your research or work, please cite the publication (see above).
   month = {May},
   date = {7-12},
   address = {Miyazaki, Japan},
-  editor = {Nicoletta Calzolari (Conference chair) and Khalid Choukri and Christopher Cieri and Thierry Declerck and Sara Goggi and Koiti Hasida and Hitoshi Isahara and Bente Maegaard and Joseph Mariani and Hélène Mazo and Asuncion Moreno and Jan Odijk and Stelios Piperidis and Takenobu Tokunaga},
-  publisher = {European Language Resources Association (ELRA)},
+  editor = {Calzolari (Conference chair), Nicoletta and Choukri, Khalid and Cieri, Christopher and Declerck, Thierry and Goggi, Sara and Hasida, Koiti and Isahara, Hitoshi and Maegaard, Bente and Mariani, Joseph and Mazo, H{\'e}l{\`e}ne and Moreno, Asuncion and Odijk, Jan and Piperidis, Stelios and Tokunaga, Takenobu},  publisher = {European Language Resources Association (ELRA)},
   isbn = {979-10-95546-00-9},
   language = {English}
 }

@@ -98,10 +98,9 @@ If you use it in your research or work, please cite the publication (see above).
   year = {2018},
   month = {May},
   date = {7-12},
-  location = {Miyazaki, Japan},
+  address = {Miyazaki, Japan},
   editor = {Nicoletta Calzolari (Conference chair) and Khalid Choukri and Christopher Cieri and Thierry Declerck and Sara Goggi and Koiti Hasida and Hitoshi Isahara and Bente Maegaard and Joseph Mariani and Hélène Mazo and Asuncion Moreno and Jan Odijk and Stelios Piperidis and Takenobu Tokunaga},
   publisher = {European Language Resources Association (ELRA)},
-  address = {Paris, France},
   isbn = {979-10-95546-00-9},
   language = {English}
 }

@@ -3,13 +3,21 @@ This repository contains the data presented in:
 
 [Schulder, Marc](http://marc.schulder.info) and [Wiegand, Michael](http://www.coli.uni-saarland.de/~miwieg/) and [Ruppenhofer, Josef](http://ruppenhofer.de/) and [Köser, Stephanie](http://www.skoeser.de/) (2018). **"Introducing a Lexicon of Verbal Polarity Shifters for English"**. Proceedings of the 11th Conference on Language Resources and Evaluation (LREC). Miyazaki, Japan, May 7-12, 2018.
 
-[PDF](http://www.lrec-conf.org/proceedings/lrec2018/pdf/110.pdf)
-
 ## Content
 We provide a complete lexicon of English verbal polarity shifters and their shifting scope.
 Our lexicon covers all verbs of WordNet v3.1 (Miller et al., 1990) that are single word or particle verbs.
 Polarity shifter and scope labels are given for each lemma-synset pair (i.e. each word sense of a lemma).
 
+### Resources
+- **Paper:** [LREC Proceedings](http://www.lrec-conf.org/proceedings/lrec2018/pdf/110.pdf)
+- **Poster:** [Link](http://marc.schulder.info/files/slides/2018_05_lexicon-of-english-verbal-polarity-shifters.pdf)
+- **Data:** See content of this repository
+
+#### Related Resources
+- **[IJCNLP 2017](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-verbal-polarity-shifters):** Lexicon of English Verbal Shifters (bootstrapped, lemma-level)
+- **[COLING 2018](https://github.com/uds-lsv/bootstrapped-lexicon-of-german-verbal-polarity-shifters):** Lexicon of German Verbal Shifters (bootstrapped, lemma-level)
+
+## Data
 The data is presented in the following forms:
 1. A complete lexicon of all verbal shifters and their shifting scopes.
 2. Two auxiliary lists:
@@ -18,8 +26,7 @@ The data is presented in the following forms:
 
 All files are in CSV (comma-separated value) format.
 
-
-## 1. Main Lexicon
+### 1. Main Lexicon
 File name: `shifter_lexicon.csv`
 
 The main lexicon lists all verbal shifters and their shifting scopes.
@@ -47,12 +54,12 @@ Any lemma-sense pair not listed is not a verbal shifter.
 When a lemma-sense pair has more than one possible scope, a separate entry is made for each scope.
 
 
-## 2. Auxiliary Lists
+### 2. Auxiliary Lists
 The auxiliary files represent the same shifter information as the main lexicon, but for lemmas and synsets, respectively, instead of for lemma-sense pairs.
 Due to their nature, these lists are more coarse-grained than the main lexicon and contain no information on shifter scope.
 They are provided as a convenience for fast experimentation.
 
-### 2.1. List of Lemmas
+#### 2.1. List of Lemmas
 File name: `shifter_lemma_lexicon.csv`
 
 List of all verb lemmas and whether they are shifters in at least one of their word senses.
@@ -66,7 +73,7 @@ Many verbal shifter lemmas only cause shifting in some of their word senses.
 This list is therefore considerably more coarse-grained than the main lexicon.
 
 
-### 2.2. List of Synsets
+#### 2.2. List of Synsets
 File name: `shifter_synset_lexicon.csv`
 
 List of all synsets and whether their lemmas are shifters in this specific word sense. 

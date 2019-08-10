@@ -7,7 +7,7 @@ This repository contains the data presented in:
 
 ## Content
 We provide a complete lexicon of English verbal polarity shifters and their shifting scope.
-Our lexicon covers all verbs of WordNet v3.1 (Miller et al., 1990) that are single word or particle verbs.
+Our lexicon covers all verbs of [WordNet](https://wordnet.princeton.edu/) v3.1 (Miller et al., 1990) that are single word or particle verbs.
 Polarity shifter and scope labels are given for each lemma-synset pair (i.e. each word sense of a lemma).
 
 ### Resources

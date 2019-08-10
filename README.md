@@ -1,4 +1,6 @@
 # Introducing a Lexicon of Verbal Polarity Shifters for English
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3365287.svg)](https://doi.org/10.5281/zenodo.3365287)
+
 This repository contains the data presented in:
 
 [Schulder, Marc](http://marc.schulder.info) and [Wiegand, Michael](http://www.coli.uni-saarland.de/~miwieg/) and [Ruppenhofer, Josef](http://ruppenhofer.de/) and [Köser, Stephanie](http://www.skoeser.de/) (2018). **"Introducing a Lexicon of Verbal Polarity Shifters for English"**. Proceedings of the 11th Conference on Language Resources and Evaluation (LREC). Miyazaki, Japan, May 7-12, 2018.

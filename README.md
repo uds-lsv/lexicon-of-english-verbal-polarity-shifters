@@ -1,4 +1,4 @@
-# Introducing a Lexicon of Verbal Polarity Shifters for English
+# Lexicon of English Verbal Polarity Shifters
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3365287.svg)](https://doi.org/10.5281/zenodo.3365287)
 
 This repository contains the data presented in:

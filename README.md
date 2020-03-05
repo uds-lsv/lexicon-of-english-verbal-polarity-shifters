@@ -3,7 +3,7 @@
 
 This repository contains the data presented in:
 
-[Schulder, Marc](http://marc.schulder.info) and [Wiegand, Michael](http://www.coli.uni-saarland.de/~miwieg/) and [Ruppenhofer, Josef](http://ruppenhofer.de/) and [Köser, Stephanie](http://www.skoeser.de/) (2018). [**"Introducing a Lexicon of Verbal Polarity Shifters for English"**](http://www.lrec-conf.org/proceedings/lrec2018/pdf/110.pdf). Proceedings of the 11th Conference on Language Resources and Evaluation (LREC). Miyazaki, Japan, May 7-12, 2018.
+[Schulder, Marc](http://marc.schulder.info) and [Wiegand, Michael](http://www.coli.uni-saarland.de/~miwieg/) and [Ruppenhofer, Josef](http://ruppenhofer.de/) and [Köser, Stephanie](http://www.skoeser.de/) (2018). [**"Introducing a Lexicon of Verbal Polarity Shifters for English"**](http://www.lrec-conf.org/proceedings/lrec2018/pdf/110.pdf). _Proceedings of the 11th Conference on Language Resources and Evaluation (LREC)_, pages 1393–1397, Miyazaki, Japan, May 7-12, 2018.
 
 ## Content
 We provide a complete lexicon of English verbal polarity shifters and their shifting scope.

@@ -3,7 +3,7 @@
 
 This repository contains the data presented in:
 
-[Marc Schulder](http://marc.schulder.info), [Michael Wiegand](http://www.coli.uni-saarland.de/~miwieg/), [Josef Ruppenhofer](http://ruppenhofer.de/) and [Stephanie Köser](http://www.skoeser.de/) (2018). [**"Introducing a Lexicon of Verbal Polarity Shifters for English"**](http://www.lrec-conf.org/proceedings/lrec2018/pdf/110.pdf). _Proceedings of the 11th Conference on Language Resources and Evaluation (LREC)_, pages 1393–1397, Miyazaki, Japan, 7–12 May 2018.
+[Marc Schulder](http://marc.schulder.info), [Michael Wiegand](http://www.coli.uni-saarland.de/~miwieg/), [Josef Ruppenhofer](http://ruppenhofer.de/) and [Stephanie Köser](http://www.skoeser.de/) (2018). [**"Introducing a Lexicon of Verbal Polarity Shifters for English"**](https://www.aclweb.org/anthology/L18-1222). _Proceedings of the 11th Conference on Language Resources and Evaluation (LREC)_, pages 1393–1397, Miyazaki, Japan, 7–12 May 2018.
 
 ## Content
 We provide a complete lexicon of English verbal polarity shifters and their shifting scope.
@@ -11,8 +11,8 @@ Our lexicon covers all verbs of [WordNet](https://wordnet.princeton.edu/) v3.1 (
 Polarity shifter and scope labels are given for each lemma-synset pair (i.e. each word sense of a lemma).
 
 ### Resources
-- **Paper:** [LREC Proceedings](http://www.lrec-conf.org/proceedings/lrec2018/pdf/110.pdf)
-- **Poster:** [Link](http://marc.schulder.info/files/slides/2018_05_lexicon-of-english-verbal-polarity-shifters.pdf)
+- **Paper:** [LREC Proceedings](http://www.lrec-conf.org/proceedings/lrec2018/pdf/110.pdf) or [ACL Anthology](https://www.aclweb.org/anthology/L18-1222)
+- **Poster:** [ACL Anthology](https://www.aclweb.org/anthology/attachments/L18-1222.Presentation.pdf)
 - **Data:** See content of this repository
 
 #### Related Resources

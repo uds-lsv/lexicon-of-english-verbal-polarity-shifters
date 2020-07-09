@@ -3,7 +3,7 @@
 
 This repository contains the data presented in:
 
-[Schulder, Marc](http://marc.schulder.info) and [Wiegand, Michael](http://www.coli.uni-saarland.de/~miwieg/) and [Ruppenhofer, Josef](http://ruppenhofer.de/) and [Köser, Stephanie](http://www.skoeser.de/) (2018). [**"Introducing a Lexicon of Verbal Polarity Shifters for English"**](http://www.lrec-conf.org/proceedings/lrec2018/pdf/110.pdf). _Proceedings of the 11th Conference on Language Resources and Evaluation (LREC)_, pages 1393–1397, Miyazaki, Japan, 7–12 May 2018.
+[Marc Schulder](http://marc.schulder.info), [Michael Wiegand](http://www.coli.uni-saarland.de/~miwieg/), [Josef Ruppenhofer](http://ruppenhofer.de/) and [Stephanie Köser](http://www.skoeser.de/) (2018). [**"Introducing a Lexicon of Verbal Polarity Shifters for English"**](http://www.lrec-conf.org/proceedings/lrec2018/pdf/110.pdf). _Proceedings of the 11th Conference on Language Resources and Evaluation (LREC)_, pages 1393–1397, Miyazaki, Japan, 7–12 May 2018.
 
 ## Content
 We provide a complete lexicon of English verbal polarity shifters and their shifting scope.
@@ -20,7 +20,7 @@ Polarity shifter and scope labels are given for each lemma-synset pair (i.e. eac
   - **[IJCNLP 2017](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-verbal-polarity-shifters):** Lexicon of English Verbal Shifters (bootstrapped, lemma-level)
   - **[COLING 2018](https://github.com/uds-lsv/bootstrapped-lexicon-of-german-verbal-polarity-shifters):** Lexicon of German Verbal Shifters (bootstrapped, lemma-level)
   - **[LREC 2020](https://github.com/uds-lsv/lexicon-of-polarity-shifting-directions):** Lexicon of Polarity Shifting Directions (supervised classification, lemma-level).
-  - **[Schulder et al. (forthcoming)](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-polarity-shifters):** General Lexicon of English Shifters (bootstrapped, lemma-level).
+  - **[JNLE](https://github.com/uds-lsv/bootstrapped-lexicon-of-english-polarity-shifters):** General Lexicon of English Shifters (bootstrapped, lemma-level).
 - **[Word Embedding of Amazon Product Review Corpus](https://doi.org/10.5281/zenodo.3370051):** Word2Vec word embedding used to create this data.
 
 ## Data
